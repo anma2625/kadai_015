@@ -1,0 +1,46 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+html{
+  font-size: 20px;
+  }
+  .text-skyblue {
+    color: skyblue;
+  }
+  
+  .text-pink {
+    color: rgb(255, 192, 203);
+  }
+  h1 {
+    font-family: 'Josefin Sans', sans-serif; /* フォントファミリーの指定 */
+    font-size: 2em;
+    letter-spacing: 1.0em; /* お好みで調整 */
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114); /* 下線を付ける */
+    line-height: 2.5;
+    letter-spacing: 1.2em;
+    text-align: center;
+    }
+    .no-color {
+      color: inherit; /* 親要素の色を継承する */
+    }
+
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  #basic .bold-text {
+    font-weight: bold;
+  }
+  no-color {
+    color: inherit;
+  }
+  .pink {
+    color: rgb(255, 192, 203);
+  }
+  h2, #basic, .blue {
+    color: #87ceeb;
+  }
