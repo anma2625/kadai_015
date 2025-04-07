@@ -23,10 +23,10 @@ html{
   #basic .bold-text {
     font-weight: bold;
   }
-  .pink {
+  .text-pink {
     color: rgb(255, 192, 203);
   }
   h2,  
-  .blue {
-    color: #87ceeb;
+  .text-skyblue {
+    color: skyblue;
   }
